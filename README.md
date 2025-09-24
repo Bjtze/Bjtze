@@ -7,10 +7,9 @@
 - 😮‍💨 A bad whistler
 - 🥩 Asks for steak "well-done" because they don’t want it done badly
 
-- 🤖 Might be a robot
 - 🏥 Likes references
 
-- 🧠 Thinks NNs are "magic"
+- 🤖 Would like to meet a sentient AI one day
 
 <!---
 Bjtze/Bjtze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
