@@ -2,14 +2,7 @@
 - 😄 Pronouns: He, Him
 
 - 🥜 Will work for peanuts
-- 🍤 Thinks the snack is called "cheesy goblins"
-- 🪜 Likes to take the stairs
-- 😮‍💨 A bad whistler
-- 🥩 Asks for steak "well-done" because they don’t want it done badly
-
-- 🏥 Likes references
-
-- 🤖 Would like to meet a sentient AI one day
+- 🥩 Asks for steak "well done" because they don't want it done badly
 
 <!---
 Bjtze/Bjtze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
