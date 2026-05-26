@@ -2,7 +2,7 @@
 - 😄 Pronouns: He, Him
 
 - 🥜 Will work for peanuts
-- 🥩 Asks for steak "well done" because they don't want it done badly
+- 🖥️ Knows how to code (kinda)
 
 <!---
 Bjtze/Bjtze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
